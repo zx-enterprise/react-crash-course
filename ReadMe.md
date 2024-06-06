@@ -2,11 +2,10 @@
 
 For ZX Enterprise
 
-
-## zulyi was here 
-
-
 ## Participants
 
 Maryna Lymar
+Anton
+Viktor
+
 
