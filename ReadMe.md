@@ -2,4 +2,10 @@
 
 For ZX Enterprise
 
-##Helo World
+## Participants
+
+Maryna Lymar
+Anton
+Viktor
+
+
