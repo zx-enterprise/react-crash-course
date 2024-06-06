@@ -4,4 +4,8 @@ For ZX Enterprise
 
 ## Participants
 
-Anton Karpenko
+- Anton Karpenko
+- Maryna Lymar
+- Anton
+- Viktor
+
